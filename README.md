@@ -5,6 +5,7 @@ A passionate computer science to transfer different ideas and to know about the 
     <tr>
 
      <td><img src="https://www.shutterstock.com/image-vector/vector-sketch-cartoon-illustration-fashion-programmer-1673891572.jpg" width="250px" height="150px"/></td>
+     
    <td><a href="https://github.com/ksumi4020/housing--property">Data Science</a><br/>
 
 <b>what basic knowledge required for data science:</b><br/>
