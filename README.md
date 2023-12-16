@@ -22,7 +22,7 @@ Identify and rank the importance of different features in influencing the house 
 <<b>2-	Feature Engineering:</b><br/>
 Explore and create new features that might better capture the underlying patterns in the data, improving the model's predictive performance.<br/>
 <b>3-	Addressing Missing Values:</b><br/>
-Develop strategies for handling missing values in the dataset, such as imputation or exclusion of instances with missing data.<br/>
+Develop strategies for handling missing values in the dataset, such as imputation or exclusion of instances with missing data:</b><br/>
 
 <td><img src="https://play.google.com/store/apps/details?id=com.free.ludo.game&hl=en_US. "width="250px" height="150px/></td>
     <td><a href="https://github.com/ksumi4020/housing--property ">Ludo Game</a><br/>
