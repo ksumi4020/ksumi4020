@@ -26,8 +26,8 @@ Develop strategies for handling missing values in the dataset, such as imputatio
 <table>
    <body>
        <tr>
-
-         <td><img src="https://www.shutterstock.com/search/ludo". "width="250px" height="150px/></td>
-           <td><a href="https://github.com/ksumi4020/housing--property ">Ludo Game</a><br/>
+           <td>img src="https://www.shutterstock.com/image-photo/game-board-ludo-toys-play-child-638809312h.jpg"width="250px" height="150px"/><</td>
+           <td><a href="https://github.com/ksumi4020/housing--property">Ludo Game</a><br/>
+           
             <b> ludo lush game:</b><br/>
     </table>
