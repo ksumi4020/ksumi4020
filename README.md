@@ -29,16 +29,12 @@ Develop strategies for handling missing values in the dataset, such as imputatio
 <table>
    <body>
        <tr>
-           <td><A common question by Python beginners and those at an intermediate skill-level is “Which Python projects should I work on to gain practical experience?”
-
-You can use Python for web development, data science, desktop applications, and more. With so many options, it can be tough to choose your next project idea…
-
+           <td><a href="https://github.com/ksumi/Python--Projects"Python Projects</a><br/>
+           <b>Python Projects:</b><br/>
+You can use Python for web development, data science, desktop applications, and more. With so many options, it can be tough to choose your next project idea
 On this page, you’ll find example projects with step-by-step instructions that’ll walk you through building real-world Python projects, from scratch.
-
 Building hands-on projects will help you gain practical coding skills. One step at a time, you’ll be putting your theoretical knowledge to use and build an impressive portfolio.
-
 Just pick a tutorial from the list below, and you’ll have all of the sample code and instructions you’ll need to have a finished project by the end:
-
 /></td>
-           <td><a href="https://github.com/ksumi4020/python--projects">python projects</a><br/>
+     <td><a href="https://github.com/ksumi4020/python--projects">python projects</a><br/>
     
