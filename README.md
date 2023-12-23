@@ -43,9 +43,40 @@ Image classification
 Sentiment analysis
 Natural Language Processing (NLP) tasks
 Recommender systems </b>
+  <table>
+     <body>
+       <tr>
+         <td><a href="https://github.com/ksumi4020/Face--Detection">Face Detection</a><br/<
+         <b> Face Detetction:</b><br/>
+<b>import cv2
 
+# Load the pre-trained face detection classifier
+face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
+# Function to detect faces in an image
+def detect_faces(image_path):
+    # Read the image
+    img = cv2.imread(image_path)
+    
+    # Convert the image to grayscale
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    
+    # Detect faces in the image
+    faces = face_cascade.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30))
+    
+    # Draw rectangles around the faces
+    for (x, y, w, h) in faces:
+        cv2.rectangle(img, (x, y), (x+w, y+h), (255, 0, 0), 2)
 
+    # Display the result
+    cv2.imshow('Faces Detected', img)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+
+# Example Usage
+image_path = 'path/to/your/image.jpg'
+detect_faces(image_path)
+</b>
 
 
 
