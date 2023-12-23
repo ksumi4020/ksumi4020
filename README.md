@@ -29,11 +29,12 @@ Develop strategies for handling missing values in the dataset, such as imputatio
 <table>
    <body>
        <tr>
-           <td><a href="https://github.com/ksumi/Python--Projects"Python Projects</a><br/>
+           <td><a href="https://github.com/ksumi4020/Python--Projects">Python Projects</a><br/>
            <b> Python Projects:</b><br/>
-<b>-You can use python for development,data science,desktop applications,and more with so many options,it can be tough to choose:</b><br/>
-<b>-Buildings hands on projects will help you gain practical coding skills:</b><br/>
-<b>-Just pick a tutorial from the list below,and instructions you need to have a finished project by the end:</b><br/>
+             
+<b>- You can use python for development,data science,desktop applications,and more with so many options,it can be tough to choose:</b><br/>
+<b>- Buildings hands on projects will help you gain practical coding skills:</b><br/>
+<b>- Just pick a tutorial from the list below,and instructions you need to have a finished project by the end:</b><br/>
 
 <table>
     <body>
