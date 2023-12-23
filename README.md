@@ -35,8 +35,7 @@ Develop strategies for handling missing values in the dataset, such as imputatio
 <table>
     <body>
         <tr>
-          
-          <td><a href="https://github.com/ksumi4020/Machine--Learning">Machine learning</a><br/<
+            <td><a href="https://github.com/ksumi4020/Machine--Learning">Machine learning</a><br/>
           <b> Machine learning:</b><br/>
           
 <b>-Explore machine learning projects using popular libraries like TensorFlow or PyTorch. Examples include:
@@ -47,8 +46,7 @@ Recommender systems </b>
   <table>
      <body>
        <tr>
-         
-         <td><a href="https://github.com/ksumi4020/Face--Detection">Face Detection</a><br/<
+        <td><a href="https://github.com/ksumi4020/Face--Detection">Face Detection</a><br/>
          <b> Face Detetction:</b><br/>
          
 <b>import cv2
@@ -82,8 +80,7 @@ detect_faces(image_path)</b>
 <table>
   <body>
    <tr>
-     
-     <td><a href="https://github.com/ksumi4020/IOT Projects>IOT Project</a><br/>
+      <td><a href="https://github.com/ksumi4020/IOT Projects">IOT Project</a><br/>
      <b> IOT Project:</b><br/>
            
      <b>-Explore Internet of Things (IoT) by connecting sensors or devices to a Raspberry Pi or Arduino using Python.
