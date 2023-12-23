@@ -38,8 +38,8 @@ Develop strategies for handling missing values in the dataset, such as imputatio
           
           <td><a href="https://github.com/ksumi4020/Machine--Learning">Machine learning</a><br/<
           <b> Machine learning:</b><br/>
-<b>-1. Machine Learning Projects:
-Explore machine learning projects using popular libraries like TensorFlow or PyTorch. Examples include:
+          
+<b>-Explore machine learning projects using popular libraries like TensorFlow or PyTorch. Examples include:
 Image classification
 Sentiment analysis
 Natural Language Processing (NLP) tasks
@@ -50,6 +50,7 @@ Recommender systems </b>
          
          <td><a href="https://github.com/ksumi4020/Face--Detection">Face Detection</a><br/<
          <b> Face Detetction:</b><br/>
+         
 <b>import cv2
 
 # Load the pre-trained face detection classifier
@@ -81,6 +82,7 @@ detect_faces(image_path)</b>
 <table>
   <body>
    <tr>
+     
      <td><a href="https://github.com/ksumi4020/IOT Projects>IOT Project</a><br/>
      <b> IOT Project:</b><br/>
            
