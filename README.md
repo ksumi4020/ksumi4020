@@ -31,10 +31,10 @@ Develop strategies for handling missing values in the dataset, such as imputatio
        <tr>
            <td><a href="https://github.com/ksumi/Python--Projects"Python Projects</a><br/>
            <b>Python Projects:</b><br/>
-You can use Python for web development, data science, desktop applications, and more. With so many options, it can be tough to choose your next project idea
-On this page, you’ll find example projects with step-by-step instructions that’ll walk you through building real-world Python projects, from scratch.
-Building hands-on projects will help you gain practical coding skills. One step at a time, you’ll be putting your theoretical knowledge to use and build an impressive portfolio.
-Just pick a tutorial from the list below, and you’ll have all of the sample code and instructions you’ll need to have a finished project by the end:
+<b>1-You can use Python for web development, data science, desktop applications, and more. With so many options, it can be tough to choose your next project idea.</b><br/>
+<b>2-On this page, you’ll find example projects with step-by-step instructions that’ll walk you through building real-world Python projects, from scratch.</b><br/>
+<b>3-Building hands-on projects will help you gain practical coding skills. One step at a time, you’ll be putting your theoretical knowledge to use and build an impressive portfolio.</b><br/>
+<b>4-Just pick a tutorial from the list below, and you’ll have all of the sample code and instructions you’ll need to have a finished project by the end:</b><br/>
 /></td>
      <td><a href="https://github.com/ksumi4020/python--projects">python projects</a><br/>
     
