@@ -3,8 +3,6 @@ A passionate computer science to transfer different ideas and to know about the 
 <table>
   <body>
     <tr>
-
-     <td><https://www.shutterstock.com/search/cartoon-girl-programmer width="250px" height="150px"/></td>
      
    <td><a href="https://github.com/ksumi4020/housing--property">Data Science</a><br/>
 
@@ -16,7 +14,6 @@ A passionate computer science to transfer different ideas and to know about the 
 <table>
   <body>
     <tr>
-      <td><img src="https://www.shutterstock.com/shutterstock/photos/1937900650/display_1500/stock-vector-illustration-of-simple-house-isolated-on-white-background-1937900650.jpg" width="250px" height="150px"/></td>
       <td><a href="https://github.com/ksumi4020/housing--property">Property Price</a><br/>
       <b>Karachi Property:</b><br/>
 The objective of a house property price data science project is to build a predictive model that can estimate the price of a house based on its features. Here are specific objectives related to the features of the house:<br/>
@@ -35,7 +32,31 @@ Develop strategies for handling missing values in the dataset, such as imputatio
 <b>- You can use python for development,data science,desktop applications,and more with so many options,it can be tough to choose:</b><br/>
 <b>- Buildings hands on projects will help you gain practical coding skills:</b><br/>
 <b>- Just pick a tutorial from the list below,and instructions you need to have a finished project by the end:</b><br/>
-
 <table>
     <body>
         <tr>
+          <td><a href="https://github.com/ksumi4020/Machine--Learning">Machine learning</a><br/<
+          <b> Machine learning:</b><br/>
+<b>-1. Machine Learning Projects:
+Explore machine learning projects using popular libraries like TensorFlow or PyTorch. Examples include:
+Image classification
+Sentiment analysis
+Natural Language Processing (NLP) tasks
+Recommender systems </b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
