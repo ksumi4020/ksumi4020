@@ -56,6 +56,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 # Function to detect faces in an image
 def detect_faces(image_path):
     # Read the image
+ <b>="https://news.mit.edu/2022/optimized-solution-face-recognition-0406jpg>
     img = cv2.imread(image_path)
     
     # Convert the image to grayscale
