@@ -89,7 +89,21 @@ Weather station using sensors:</b>
 <table>
    <body>
      <tr>
+      <td><a href=https://github.com/ksumi4020/Web Development--Projects">Web Development--projects</a><br/>
+      <b> Web Development Projects:</b><br/>
+        
+<b> Personal Portfolio Website:
+Create a personal portfolio website using Flask or Django.
+Showcase your projects, skills, and resume.
+Implement a contact form.
+Blog Platform:
 
+Build a simple blog platform using a web framework.
+Allow users to create accounts, write, edit, and delete posts.
+E-commerce Website:
+
+Develop a basic e-commerce site with product listings and a shopping cart.
+Implement user authentication and payment processing:</b>
 
 
 
